@@ -1,0 +1,24 @@
+id: I79F57A79
+initial_creation_type: ebook
+source_metadata:
+  id: MIN-TC-14
+  title: ༄༅།  །གཞན་ངོར་བདག་བསྟོད་དུ་བརྗོད་པ་གསང་གསུམ་མཛེས་པའི་རྒྱན་ཕྲེང་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  author: མཛད་པ་པོ། སྨིན་གླིང་གཏེར་ཆེན་འགྱུར་མེད་རྡོ་རྗེ།
+  authors: &id001
+  - མཛད་པ་པོ། སྨིན་གླིང་གཏེར་ཆེན་འགྱུར་མེད་རྡོ་རྗེ།
+  sku: MIN-TC-14
+  cover: MIN-TC-14.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅།  །གཞན་ངོར་བདག་བསྟོད་དུ་བརྗོད་པ་གསང་གསུམ་མཛེས་པའི་རྒྱན་ཕྲེང་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors: *id001
+  sku: MIN-TC-14
+  cover: MIN-TC-14.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Commentary
+- Yigchung
